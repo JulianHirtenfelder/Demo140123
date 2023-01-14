@@ -1,3 +1,4 @@
 first line of some text
 second line to be shown
 third line - last line
+fourth line - realy last line
